@@ -19,11 +19,11 @@ Axana Raiser, Data Analytics Bootcamp, July 2021
 
 The (imaginary) movie streaming platform _MovIndie_ needs help! The company is renown for their handpicked selection of independent movies available for streaming on their website, but due to the ever-growing number of movie releases, it’s becoming more and more time-consuming for the small team to make noteworthy picks. In order to simplify this process, they would like to use an interactive tool that can help in the pre-selection process of their movies. 
 
-This project involves web scraping, using different APIs, cleaning and analyzing all the data, and finally creating a dashboard that can be filtered by multiple metrics (e.g. genre, director, language, keyword) to serve the company's purpose.
+This project involves web scraping, using different APIs, cleaning and analyzing all the data, and finally creating a dashboard that can be filtered by multiple metrics (genre, director, language, keyword etc.) to serve the company's purpose.
 
 ## 2. Data Sources
 
-<img src="https://github.com/aranaxa/Ironhack-Final-Project/blob/main/Images/imdb.png" width="120" height="50" />
+<img src="https://github.com/aranaxa/Ironhack-Final-Project/blob/main/Images/imdb.png" width="120"/>
 IMDb is the largest online movie database including information on half a million movies. To find movies relevant for this project, I have initially scraped the website for ~20,000 movies. Further filtering (i.e. removing movies by major production companies) have resulted in a dataset of ~15,000 movies. To store all relevant movie details, I have used the following unofficial IMDb APIs (via RapidAPI):
 
 
@@ -32,7 +32,7 @@ IMDb is the largest online movie database including information on half a millio
 - [SERIES-MOVIES-IMDB](https://rapidapi.com/chrisish71/api/series-movies-imdb/)
 
 ___
-<img src="https://github.com/aranaxa/Ironhack-Final-Project/blob/main/Images/tmdb.png" width="120" height="50" />
+<img src="https://github.com/aranaxa/Ironhack-Final-Project/blob/main/Images/tmdb.png" width="120"/>
 
 To complement the data gathered via IMDb, I have used [TMDb's official API](https://www.themoviedb.org/documentation/api) to gather more details on keywords and gender of actors and directors.
 
@@ -41,8 +41,8 @@ The final dataset contains ~10,000 after removing missing content.
 ## 3. Process and Tools
 
 - Outline project and define goals
-- Set up project environment (GitHub repository, [Trello Kanban board](https://trello.com/b/JvgHkH9q/ironhack-final-project))
 - Research data sources
+- Set up project environment (GitHub repository, [Trello Kanban board](https://trello.com/b/JvgHkH9q/ironhack-final-project))
 - Gather data via web scraping and APIs
 - EDA, clean and wrangle data in Python and Pandas
 - Analysis and visualization in Tableau
