@@ -3254,12 +3254,10 @@ tt0052698,34145,France
 tt0052698,34145,Italy
 tt0069466,102699,United States of America
 tt0177242,2241,Germany
-tt0177242,2241,East Germany
 tt2018079,172106,France
 tt0086034,700,United Kingdom
 tt0099138,16217,Australia
 tt0097095,36672,Germany
-tt0097095,36672,East Germany
 tt4411504,352161,Argentina
 tt4411504,352161,Spain
 tt0944101,14758,United States of America
@@ -5671,7 +5669,7 @@ tt2076220,103328,France
 tt2076220,103328,Germany
 tt0086605,25539,Hong Kong
 tt0070832,8703,Czechoslovakia
-tt0070832,8703,East Germany
+tt0070832,8703,Germany
 tt1037163,44898,Belgium
 tt1037163,44898,France
 tt1037163,44898,Italy
@@ -6031,7 +6029,6 @@ tt3646946,330081,Japan
 tt1337057,38780,Canada
 tt1337057,38780,Germany
 tt0070299,2232,Germany
-tt0070299,2232,East Germany
 tt0488763,14763,South Korea
 tt0054494,2546,France
 tt9318280,568994,United States of America
@@ -6595,7 +6592,7 @@ tt0070215,9474,France
 tt0070215,9474,Germany
 tt0070215,9474,Italy
 tt0071688,2200,Czechoslovakia
-tt0071688,2200,East Germany
+tt0071688,2200,Germany
 tt1097643,17622,Canada
 tt1097643,17622,United Kingdom
 tt1172570,18533,United Kingdom
@@ -8258,7 +8255,7 @@ tt0048281,5506,United Kingdom
 tt4203284,331424,Argentina
 tt0063808,42688,United States of America
 tt0067464,47712,Czechoslovakia
-tt0067464,47712,East Germany
+tt0067464,47712,Germany
 tt0862467,37861,Denmark
 tt0862467,37861,United Kingdom
 tt1922777,82507,United States of America
@@ -8812,7 +8809,7 @@ tt0090130,31600,United States of America
 tt0094056,60631,United States of America
 tt0094056,60631,Canada
 tt0122648,48254,Italy
-tt0050709,4412,East Germany
+tt0050709,4412,Germany
 tt0050709,4412,France
 tt0050709,4412,Italy
 tt0040444,25672,United States of America
@@ -9095,7 +9092,6 @@ tt0070861,37129,Soviet Union
 tt0235712,9674,Japan
 tt6285944,627725,United States of America
 tt0038769,932,Germany
-tt0038769,932,East Germany
 tt0066530,42528,France
 tt0066530,42528,Tunisia
 tt0039748,43463,United States of America
