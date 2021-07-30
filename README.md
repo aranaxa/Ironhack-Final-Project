@@ -10,10 +10,10 @@ Axana Raiser, Data Analytics Bootcamp, July 2021
 
 #### Content
 
-1. [Description](https://github.com/aranaxa/Ironhack-Final-Project/blob/main/README.md#description)
-2. [Process and Tools](https://github.com/aranaxa/Ironhack-Final-Project/blob/main/README.md#process-and-tools)
-3. [Data Sources](https://github.com/aranaxa/Ironhack-Final-Project/blob/main/README.md#data-sources)
-4. [Dashboard and Presentation](https://github.com/aranaxa/Ironhack-Final-Project/blob/main/README.md#dashboard-and-presentation)
+1. [Description](https://github.com/aranaxa/Ironhack-Final-Project#description)
+2. [Data Sources](https://github.com/aranaxa/Ironhack-Final-Project#data-sources)
+3. [Process and Tools](https://github.com/aranaxa/Ironhack-Final-Project#process-and-tools)
+4. [Dashboard and Presentation](https://github.com/aranaxa/Ironhack-Final-Project#dashboard-and-presentation)
 
 ## 1. Description
 
